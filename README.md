@@ -2,7 +2,7 @@
 
 Questo repository contiene il codice sorgente del mio programma per calcolare e stampare un triangolo di Pascal.
 
-Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-24-018**]([https://youtu.be/djGi0R-mF4w](https://youtu.be/hbLguYlGuI0)) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
+Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-24-018**](https://youtu.be/hbLguYlGuI0) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
 
 # Quick Start
 
